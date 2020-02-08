@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">掷骰子</string>
+    <string name="textview">请开始掷数</string>
+    <string name="todo">TODO</string>
+</resources>
